@@ -9,6 +9,7 @@ This Flutter application displays a developer's profile with basic information s
 ## Screenshots
 
 ![Screenshot](screenshots/profileApp.png)
+<img src="screenshots/profileApp.png" alt="Screenshot 1" width="300" />
 
 ## Features
 
